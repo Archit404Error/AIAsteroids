@@ -11,3 +11,5 @@ Simply download or git clone the project and run:
 python3 main.py
 ```
 on the command line!
+
+![image of AI training](training.png)
