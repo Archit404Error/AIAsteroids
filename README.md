@@ -12,4 +12,6 @@ python3 main.py
 ```
 on the command line!
 
+Here's an example of what the training process should look like:
+
 ![image of AI training](training.png)
